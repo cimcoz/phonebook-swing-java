@@ -1,6 +1,11 @@
 # phonebook
 A simple Swing-backed phonebook.
 
+To compile and run, type in the command line from within the directory containing all 3 source files:
+
+unix % javac PhoneBook.java
+unix % java PhoneBook
+
 The basic functionality:
 
 1. Adding a new phone record.
